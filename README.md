@@ -33,8 +33,9 @@ The purpose of this dashboard is to evaluate fleet operations through:<br>
 ---
 ### 👤 Author
 <b>Vishesh Mittal</b><br>
-<a href="(https://www.linkedin.com/in/visheshmittal05/)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a> | <a href="(https://visheshmittal01.github.io/portfolio/)">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+<a href="https://www.linkedin.com/in/visheshmittal05/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://visheshmittal01.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logoColor=white" alt="Website">
 </a>
